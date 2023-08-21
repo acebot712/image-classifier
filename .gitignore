@@ -2,3 +2,6 @@
 venv/
 train/
 test/
+*.csv
+*.jpg
+*.zip
